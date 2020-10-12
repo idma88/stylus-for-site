@@ -1,0 +1,5 @@
+@-moz-document domain("habr.com") {
+.layout__cell {
+    max-width: 1464px !important;
+}
+}

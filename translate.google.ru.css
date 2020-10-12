@@ -1,0 +1,5 @@
+@-moz-document domain("translate.google.ru") {
+.page {
+    max-width: 90% !important;
+}
+}

@@ -1,0 +1,17 @@
+@-moz-document domain("gdeposylka.ru") {
+@media (min-width: 1920px) {
+    .container {
+        width: 1890px;
+    }
+    
+    .track-list .track .title,
+    .track-list .track .title .title-wrapper,
+    .track-list .track .checkpoint {
+        width: auto
+    }
+    
+    .track-list .track .actions {
+        width: 200px
+    }
+}
+}

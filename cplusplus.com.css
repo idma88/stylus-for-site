@@ -1,0 +1,9 @@
+@-moz-document domain("cplusplus.com") {
+.effect_height {
+    -moz-transition: none !important;
+    -ms-transition: none !important;
+    -o-transition: none !important;
+    -webkit-transition: none !important;
+    transition: none !important;
+}
+}
