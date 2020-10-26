@@ -2,4 +2,8 @@
 .layout__cell {
     max-width: 1464px !important;
 }
+
+.post__body-cover_fit-cover {
+    max-width: none;
+}
 }
