@@ -1,5 +1,5 @@
 @-moz-document domain("habr.com") {
-.layout__cell {
+.layout__cell, .tm-page-width {
     max-width: 1464px !important;
 }
 
