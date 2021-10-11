@@ -3,7 +3,7 @@
     max-width: 1464px !important;
 }
 
-.post__body-cover_fit-cover, .tm-article-snippet__cover_cover, .tm-page-article__additional-blocks, .tm-editoral-subscription {
+.tm-article-presenter__footer {
     max-width: none;
 }
 }
