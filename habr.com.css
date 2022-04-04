@@ -1,9 +1,0 @@
-@-moz-document domain("habr.com") {
-.layout__cell, .tm-page-width {
-    max-width: 1464px !important;
-}
-
-.tm-article-presenter__footer, .tm-article-snippet__cover_cover {
-    max-width: none;
-}
-}
